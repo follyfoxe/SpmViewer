@@ -6,6 +6,11 @@ Made in unity engine, I initially tried to make it on winforms C# but gave up.
 
 Only tested with Super Paper Mario model files. Might work with TTYD.
 
+# Future
+I was planning to re-do this project, as i often tend to do, but without unity (OpenGL + ImGui) and still in C# of course.<br>
+But i got very distracted with trying to get a pre-trained GAN neural network running in C# without python. (I succeeded)<br>
+And now that i go back to work on that i realized that it was kind of a mess, so i might re-do the re-do.
+
 # File format specs
 I found initially [this forum](https://www.emutalk.net/threads/pm-ttyd-model-file-format-pet-project.27613/), 
 and along with it, [this website](https://hocuspocus.taloncrossing.com/rii/), which has a bunch of TTYD model viewers and it's source code, 
