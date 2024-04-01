@@ -1,4 +1,10 @@
 # Future
+Folly - 2024
+This repo is being archived due to me not working on it.
+2 years have passed, and since then there have been lots of unfinished re-works and different versions of this project. In the latest one, I managed to get animations fully-working-ish.
+Yet again, I'm considering starting all over again, but this time in the Godot game engine... Hopefully this time I end up with a finished project.
+
+Folly - 2022
 I was planning to re-do this project, as i often tend to do, but without unity (OpenGL + ImGui) and still in C# of course.<br>
 But i got very distracted with trying to get a pre-trained GAN neural network running in C# without python. (I succeeded)<br>
 And now that i go back to work on that i realized that it was kind of a mess, so i might re-do the re-do.
